@@ -1,0 +1,5 @@
+encryptionsalt: v1:sHux35X2OdQ=:v1:TvrKsj39Ly/rySk4:E6Rrwt4+v65w34uUk6762+7hvhlz+A==
+config:
+  aws:profile: k8s-gitops-workshop
+  aws:region: ap-southeast-1
+  eks:postfix: chayakorn-jenpitak
